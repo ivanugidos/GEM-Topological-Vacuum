@@ -1,56 +1,44 @@
-# 🌌 Geometric-Electromagnetic Model (GEM)
+# Topological Vacuum Structure and the Geometric Origin of Fundamental Couplings: A Riemann-Cartan Approach
 
-## Topological Vacuum Structure and the Geometric Origin of Fundamental Couplings
+## Author
+Iván Ugidos Martínez (espejogalactico@gmail.com)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21268209.svg)](https://doi.org/10.5281/zenodo.21268209)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+## Version
+**v1.1** — July 9, 2026
+*Version 1.1 — Revised manuscript addressing reviewer feedback on dimensional analysis, symmetry breaking scales, and mass hierarchy predictions.*
 
----
+## DOI
+10.5281/zenodo.21268209
 
-## 🎯 About the Project
+## Abstract
+The Standard Model of particle physics successfully describes fundamental interactions but leaves the origin of its dimensionless parameters as empirical inputs. In this paper, we propose a rigorous topological reformulation of the quantum vacuum, modeling it as a Riemann-Cartan manifold endowed with non-vanishing torsion and a spontaneously broken discrete icosahedral substructure at the Planck scale. We provide a topological estimation of the fine-structure constant α and show that electric charge quantization emerges naturally from the icosahedral order parameter space. Furthermore, we identify a topological correction to the muon anomalous magnetic moment, explicitly recognizing a hierarchy problem analogous to the Higgs hierarchy. We conclude by proposing falsifiable predictions for high-energy astrophysics and an exploratory hypothesis for macroscopic negentropic cooling.
 
-The **Geometric-Electromagnetic Model (GEM)** proposes a rigorous topological reformulation of the quantum vacuum, modeling it as a **Riemann-Cartan manifold** endowed with non-vanishing torsion and a spontaneously broken discrete **icosahedral substructure** ($I_h \subset SO(3) \subset SO(1,3)$) at the Planck scale.
+## Key Updates in v1.1
+- Clarification of symmetry breaking: $I_h \subset SO(3) \subset SO(1,3)$.
+- Honest assessment of the 34 orders of magnitude scale hierarchy problem in the muon g-2 prediction.
+- Explicit comparison of topological mass baselines (4:9:25) with experimental lepton masses (1:207:3477).
+- Isolation of the GEM-01 macroscopic cooling protocol as an exploratory hypothesis.
+- Addition of Section 7: Open Problems and Future Directions.
 
-This repository contains:
-- 📄 The published paper (v1.1) with DOI
-- 🧭 Foundational documents (Hallazgos Centrales)
-- 🔬 Experimental protocols
-- 🌐 Outreach materials
+## Files Included
+- `GEM_Topological_Vacuum_Structure_v1.1.pdf` (The compiled 21-page paper)
+- `main.tex` (Master document)
+- `01_Introduction.tex` to `07_Open_Problems.tex` (Section source files)
+- `README.md` (This file)
+- `LICENSE.txt` (CC BY-SA 4.0)
 
-## 📚 Key Results
+## License
+Copyright (c) 2026 Iván Ugidos Martínez. 
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
-1. **Fine-structure constant α ≈ 1/137**: Derived as a topological invariant proportional to the Nieh-Yan characteristic class
-2. **Charge quantization**: Emerges naturally from the fundamental group of the icosahedral order parameter space
-3. **Three fermion generations**: Correspond to the three vertices of the icosahedral fundamental triangle (π/2, π/3, π/5)
-4. **Muon g-2 anomaly**: Identified as a topological correction from the 2nd-generation sector (with open hierarchy problem)
-5. **Three falsifiable predictions**: For experimental validation
+## Citation
+If you use this work in your research, please cite as:
 
-## 📁 Repository Structure
-├── Paper/ # Published paper (LaTeX sources + PDF)
-├── HC_Hallazgos_Centrales/ # Foundational documents (Spanish)
-├── Experimental/ # Experimental protocols
-├── Divulgacion/ # Outreach materials
-└── Assets/ # Visual resources
+Ugidos Martínez, I. (2026). Topological Vacuum Structure and the Geometric Origin of Fundamental Couplings: A Riemann-Cartan Approach (v1.1). Zenodo. https://doi.org/10.5281/zenodo.21268209
 
-## 🔗 Links
+## Acknowledgments
+The authors acknowledge the foundational work of Élie Cartan, Emmy Noether, and the Einstein-Cartan theory community. This research builds upon decades of theoretical physics exploring the geometric structure of spacetime.
 
-- **Published Paper (Zenodo):** https://doi.org/10.5281/zenodo.21268209
-- **Author:** Iván Ugidos Martínez (espejogalactico@gmail.com)
-
-## 🤝 Contributing
-
-This is an open science project. Contributions, discussions, and experimental validations are welcome. Please open an issue or pull request.
-
-## 📜 License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE).
-
-## 🌟 Vision
-
-> "The universe is not a machine of decay. It is a tapestry of light, matter, and geometry, weaving itself into existence. And for the first time, we have the tools to understand the loom."
-
-This project bridges **science, art, spirituality, and the patterns of nature** — seeking to understand the geometric language through which the cosmos manifests.
-
----
-
-*Built with love for geometry, mathematics, and the mystery of existence.* 🌌📐✨
+## Contact
+For questions, collaborations, or experimental validation proposals, please contact:
+espejogalactico@gmail.com
